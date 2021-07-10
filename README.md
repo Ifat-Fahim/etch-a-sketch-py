@@ -15,7 +15,7 @@ A simple python program to draw on the screen with keystrokes. I'm using python 
 
 ## Initializing the turtle
 
-```
+```py
 from turtle import Turtle, Screen
 
 tim = Turtle()
